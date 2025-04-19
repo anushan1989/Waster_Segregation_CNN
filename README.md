@@ -1,0 +1,1 @@
+# Waster_Segregation_CNN
